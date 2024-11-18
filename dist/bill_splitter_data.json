@@ -1,0 +1,51 @@
+{
+    "participants": {
+        "Ajeet": {
+            "total_paid": 135.0,
+            "total_share": 925.0
+        },
+        "Shubham": {
+            "total_paid": 2500.0,
+            "total_share": 925.0
+        },
+        "Bhatiya": {
+            "total_paid": 140.0,
+            "total_share": 925.0
+        }
+    },
+    "expenses": [
+        {
+            "amount": 2500.0,
+            "payer": "Shubham",
+            "beneficiaries": [
+                "Ajeet",
+                "Bhatiya",
+                "Shubham"
+            ],
+            "description": "Car Petrol",
+            "timestamp": "2024-11-18 19:03:57"
+        },
+        {
+            "amount": 140.0,
+            "payer": "Bhatiya",
+            "beneficiaries": [
+                "Ajeet",
+                "Bhatiya",
+                "Shubham"
+            ],
+            "description": "Bhatura",
+            "timestamp": "2024-11-18 19:04:16"
+        },
+        {
+            "amount": 135.0,
+            "payer": "Ajeet",
+            "beneficiaries": [
+                "Ajeet",
+                "Bhatiya",
+                "Shubham"
+            ],
+            "description": "Coffee",
+            "timestamp": "2024-11-18 19:04:36"
+        }
+    ]
+}
